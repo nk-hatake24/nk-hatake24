@@ -4,7 +4,7 @@ Highlight your engineering skills as the foundation for your research potential.
 -->
 
 <div align="center">
-  <h1>Hi, I'm [Your Name] 👋</h1>
+  <h1>Hi, I'm Nkenla Michel 👋</h1>
   <h3>Machine Learning Engineer & Aspiring PhD Candidate</h3>
   <p>Bridging the gap between robust software engineering and foundational AI research.</p>
 </div>
@@ -29,7 +29,7 @@ My goal is to develop novel frameworks and models that make AI agents more depen
 *   🔭 I'm currently exploring state-of-the-art implementations of autonomous AI agents.
 *   🌱 I am deepening my knowledge of causal inference and reinforcement learning.
 *   💬 I am open to discussing PhD opportunities and research collaborations.
-*   📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+*   📫 How to reach me: [nkenlamichel@gmail.com](mailto:nkenlamichel@gmail.com)
 
 ---
 
@@ -93,7 +93,7 @@ What question were you trying to answer? What was the outcome?
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/nk-hatake24">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=dracula"/>
   </a>
@@ -104,14 +104,14 @@ What question were you trying to answer? What was the outcome?
 ### 🔗 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/" target="_blank">
+  <a href="www.linkedin.com/in/nkenla-michel-4577251b7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <!-- Add a Google Scholar link if you have one -->
   <!-- <a href="LINK_TO_YOUR_GOOGLE_SCHOLAR" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
   </a> -->
-  <a href="https://twitter.com/YOUR_TWITTER_PROFILE" target="_blank">
+  <a href="https://x.com/mit_code" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
