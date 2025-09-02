@@ -57,7 +57,7 @@ Be sure to replace #LINK_TO_THESIS with a link to the paper, the code repository
 
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td width="100%">
       <h4 align="center">Master's Thesis: Multimodal RAG for Plant Disease Diagnosis</h4>
       <div align="center">
         <a href="#LINK_TO_THESIS" title="Link to project/paper">
@@ -72,26 +72,9 @@ Be sure to replace #LINK_TO_THESIS with a link to the paper, the code repository
         </p>
       </div>
     </td>
-    <td width="50%">
-      <h4 align="center">Scalable MLOps & Full-Stack Architecture</h4>
-      <div align="center">
-        <a href="#LINK_TO_PROJECT" title="Link to project">
-          <img src="https://via.placeholder.com/400x200.png?text=Your+Project+Image" alt="Project Demo" />
-        </a>
-        <p>
-          <b>[TypeScript | Next.js | FastAPI | Terraform | AWS]</b>
-        </p>
-        <p>
-          A proof-of-concept system demonstrating a robust and scalable architecture for deploying real-time ML models. This project showcases my ability to build the end-to-end infrastructure required for rigorous ML experimentation and deployment, with a focus on low latency and automation (Infrastructure as Code).
-        </p>
-      </div>
-    </td>
+   
   </tr>
 </table>
-
----
-
-
 ---
 
 ### 🔗 Let's Connect
