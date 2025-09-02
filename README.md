@@ -13,7 +13,7 @@ Highlight your engineering skills as the foundation for your research potential.
 
 ### 👨‍🔬 Profile & Research Interests
 
-I am a **Machine Learning Engineer** with a comprehensive **Full-Stack development** background, now actively seeking a PhD position for Fall [Year] or Spring [Year].
+I am a **Machine Learning Engineer** with a comprehensive **Full-Stack development** background, now actively seeking a PhD position for Fall 2026 or Spring 2027.
 
 My professional experience building end-to-end systems has given me a deep appreciation for architecture, optimization, and user-centric design. However, it has also exposed me to the fundamental challenges and limitations of current AI systems. This has ignited my passion to move from application to innovation.
 
