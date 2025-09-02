@@ -51,37 +51,38 @@ My engineering skills provide a strong foundation for implementing and validatin
 ### ✨ Featured Projects & Research Explorations
 
 <!-- 
-Frame your projects as early-stage research or explorations of your interests.
-What question were you trying to answer? What was the outcome?
+This section highlights your most significant work. Your Master's thesis is a perfect example of your research capabilities.
+Be sure to replace #LINK_TO_THESIS with a link to the paper, the code repository, or a presentation about it.
 -->
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h4 align="center">Investigation into Agentic RAG</h4>
+      <h4 align="center">Master's Thesis: Multimodal RAG for Plant Disease Diagnosis</h4>
       <div align="center">
-        <a href="LINK_TO_YOUR_PROJECT" title="Link to project">
-          <img src="https://via.placeholder.com/400x200.png?text=Your+Project+Image" alt="Project Demo" />
+        <a href="#LINK_TO_THESIS" title="Link to project/paper">
+          <!-- A diagram of your model architecture would be perfect here! -->
+          <img src="https://via.placeholder.com/400x200.png?text=Architecture+Diagram" alt="Project Architecture Diagram" />
         </a>
         <p>
-          <b>[Python | LangChain | PyTorch | VectorDB]</b>
+          <b>[Python | PyTorch | Hugging Face | RAG | Multimodal AI]</b>
         </p>
         <p>
-          An exploration of an autonomous agent designed to [solve a specific problem]. This project investigates how a novel RAG pipeline can improve its planning and execution capabilities.
+          This research (supervised by Prof. Maurice Tchoupe) introduces a novel multimodal (text-image) RAG system for diagnosing maize diseases. To combat multimodal hallucination, the system grounds the language model using image captioning. It further enhances the quality of the generated diagnosis through an advanced retrieval pipeline featuring reranking, repacking, and summarization techniques.
         </p>
       </div>
     </td>
     <td width="50%">
-      <h4 align="center">Optimized Full-Stack Architecture for ML</h4>
+      <h4 align="center">Scalable MLOps & Full-Stack Architecture</h4>
       <div align="center">
-        <a href="LINK_TO_YOUR_PROJECT" title="Link to project">
+        <a href="#LINK_TO_PROJECT" title="Link to project">
           <img src="https://via.placeholder.com/400x200.png?text=Your+Project+Image" alt="Project Demo" />
         </a>
         <p>
           <b>[TypeScript | Next.js | FastAPI | Terraform | AWS]</b>
         </p>
         <p>
-          A proof-of-concept system demonstrating a highly scalable and optimized architecture for deploying real-time ML models, focusing on low latency and infrastructure as code.
+          A proof-of-concept system demonstrating a robust and scalable architecture for deploying real-time ML models. This project showcases my ability to build the end-to-end infrastructure required for rigorous ML experimentation and deployment, with a focus on low latency and automation (Infrastructure as Code).
         </p>
       </div>
     </td>
@@ -90,14 +91,6 @@ What question were you trying to answer? What was the outcome?
 
 ---
 
-### 📊 My GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/nk-hatake24">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</div>
 
 ---
 
