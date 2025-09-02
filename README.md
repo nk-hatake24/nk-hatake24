@@ -62,7 +62,7 @@ Be sure to replace #LINK_TO_THESIS with a link to the paper, the code repository
       <div align="center">
         <a href="#LINK_TO_THESIS" title="Link to project/paper">
           <!-- A diagram of your model architecture would be perfect here! -->
-          <img src="https://via.placeholder.com/400x200.png?text=Architecture+Diagram" alt="Project Architecture Diagram" />
+          <img src="https://ibb.co/4ZmQbLb2" />
         </a>
         <p>
           <b>[Python | PyTorch | Hugging Face | RAG | Multimodal AI]</b>
