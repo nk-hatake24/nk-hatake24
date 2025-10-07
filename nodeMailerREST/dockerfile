@@ -1,0 +1,26 @@
+# Utiliser une image Node.js
+FROM node:18-alpine
+
+# Créer le répertoire de l'application
+WORKDIR /app
+
+# Copier package.json et package-lock.json pour installer les dépendances
+# L'astérisque permet de copier les deux fichiers s'ils existent
+COPY package*.json ./
+
+# Installer les dépendances
+RUN npm install
+
+# Copier le reste du code de l'application
+COPY . .
+
+# Si vous avez une étape de "build" pour TypeScript, vous la mettriez ici
+# Par exemple : RUN npm run build
+
+# Exposer le port sur lequel votre application Node.js écoute
+# Remplacez 3051 par le port que votre application utilise réellement
+EXPOSE 3052
+
+# La commande pour démarrer votre application
+# Généralement "npm start" ou "node src/index.js"
+CMD ["npm", "start"]
